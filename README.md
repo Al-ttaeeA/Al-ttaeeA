@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Ahmed 👋
 
-<!--
-**Al-ttaeeA/Al-ttaeeA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science & Mathematics student and I am interested in theoretical CS, game systems, machine learning, and OOP-heavy design
 
-Here are some ideas to get you started:
+## Tech Stack
+- Languages: Java (primary), C, Python
+- Web: HTML, CSS, JavaScript
+- Concepts: Object-Oriented Design, Algorithms, Discrete Math, Machine Learning
+- Tools: Git, GitHub, LaTeX, Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **Wizard of Cardonia** – Card-based roguelike RPG in Java  
+  - OOP-heavy architecture with custom card, effect, rarity, and item systems
+  - Focus on extensibility, data-driven design, and long-term scalability
+
+- **GPYOU** - GPU recommendation tool using Gemini API
+  - Full-stack web app that guides users toward GPUs based on needs and constraints
+  - Built in under 48 hours at GDSC25 Hackathon — **Winner: Best UI**
+
+## Current Interests
+- Theoretical Computer Science
+- Machine Learning
+- Quantum Computing
+- Pure Mathematics
+
+## Contact
+- GitHub: https://github.com/Al-ttaeeA
+- Email: ahmedalttaee0306@gmail.com
